@@ -51,7 +51,18 @@ I'm an introvert, a night owl, and probably deep into a Sea of Thieves session o
 <br>
 
 ## 📊 Stats
-<div align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dinouseg&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=86D9A4&icon_color=86D9A4&text_color=ffffff" alt="GitHub Stats" height="165"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dinouseg&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=86D9A4&text_color=ffffff" alt="Top Languages" height="165"/> <img src="https://streak-stats.demolab.com/?user=Dinouseg&theme=dark&hide_border=true&background=0d0d0d&stroke=86D9A4&ring=86D9A4&fire=86D9A4&currStreakLabel=86D9A4" alt="Streak Stats" /> </div> <br>
+
+<div align="center">
+
+<img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
+<img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=Dinouseg&theme=dark&hide_border=true&background=0d0d0d&stroke=86D9A4&ring=86D9A4&fire=86D9A4&currStreakLabel=86D9A4" alt="Streak Stats" />
+
+</div>
+
+<br>
+
 ## 🔗 Connect
 
 <div align="center">
