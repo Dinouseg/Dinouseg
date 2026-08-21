@@ -16,18 +16,18 @@
 
 ## 🧿 About me
 
-I'm an IT student from the Czech Republic and a self-taught developer. I mostly build **websites** and **tools for gamers** — Discord bots, server tooling, small apps that scratch my own itch when I'm playing.
+I'm an IT student from the Czech Republic and a self-taught developer. I mostly build **websites** and **tools for gamers** like Discord bots, server tooling, small apps that helps me during gaming.
 
-I don't do this for money or as a business. I build stuff because I need it, and then I share it here so other people don't have to build it from scratch too. Everything I publish is **free and open source**, no strings attached.
+I don't do this for money or as a business. I build stuff because I need it, and then I share it here so other people don't have to build it from scratch. Everything I publish is **free and open source**, no strings attached.
 
 <br>
 
 ## ⚙️ What I do
 
-- 🌐 **Websites** — clean, minimalist, dark-themed frontends built from scratch
+- 🌐 **Websites** — clean, minimalist, dark-themed frontends for me or my friends, free just for fun
 - 🎮 **Tools for gamers** — Discord bots, server utilities, small QoL apps for the games I actually play
 - 🖥️ **Homelab tinkering** — self-hosting, servers, automation
-- 🧪 **Random projects** — whatever I'm curious about at the moment
+- 🧪 **Random projects** — whatever I'm curious about something, I build it
 
 <br>
 
